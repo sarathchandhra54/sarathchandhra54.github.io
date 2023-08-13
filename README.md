@@ -1,2 +1,1 @@
-# sarathchandhra54.github.io
-kodi
+	Parent Directory and repos
